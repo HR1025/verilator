@@ -39,3 +39,6 @@ verilator-config-version.cmake
 **/__pycache__/*
 **/_build/*
 **/obj_dir/*
+doc-ch/.vscode
+.vscode
+.vscode/*
